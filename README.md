@@ -16,3 +16,6 @@ E-commerce Makanan
 ![ERD](https://gitlab.com/ashfajundillah/final-project/-/raw/master/public/image/final%20project.png)
 
 ## Link Video
+
+## Link website
+http://foodyappslaravel.epizy.com
